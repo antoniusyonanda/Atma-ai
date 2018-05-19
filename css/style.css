@@ -5,6 +5,9 @@
 /*--
 	Common Css
 --*/
+.container-bg {
+    background: #F8F8F8;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
